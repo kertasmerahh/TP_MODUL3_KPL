@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\[TELYU]\\[KULIAH]\\SEMESTER4\\KPL\\Praktikum\\Code\\TP_MODUL3_103022400036\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07F53585-3DA1-4E04-ACB7-9F13FE7D2602}|TP_MODUL3_103022400036\\TP_MODUL3_103022400036.csproj|d:\\[telyu]\\[kuliah]\\semester4\\kpl\\praktikum\\code\\tp_modul3_103022400036\\tp_modul3_103022400036\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F53585-3DA1-4E04-ACB7-9F13FE7D2602}|TP_MODUL3_103022400036\\TP_MODUL3_103022400036.csproj|solutionrelative:tp_modul3_103022400036\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07F53585-3DA1-4E04-ACB7-9F13FE7D2602}|TP_MODUL3_103022400036\\TP_MODUL3_103022400036.csproj|d:\\[telyu]\\[kuliah]\\semester4\\kpl\\praktikum\\code\\tp_modul3_103022400036\\tp_modul3_103022400036\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{07F53585-3DA1-4E04-ACB7-9F13FE7D2602}|TP_MODUL3_103022400036\\TP_MODUL3_103022400036.csproj|solutionrelative:tp_modul3_103022400036\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\[TELYU]\\[KULIAH]\\SEMESTER4\\KPL\\Praktikum\\Code\\TP_MODUL3_103022400036\\TP_MODUL3_103022400036\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_MODUL3_103022400036\\Form1.cs",
+              "ToolTip": "D:\\[TELYU]\\[KULIAH]\\SEMESTER4\\KPL\\Praktikum\\Code\\TP_MODUL3_103022400036\\TP_MODUL3_103022400036\\Form1.cs",
+              "RelativeToolTip": "TP_MODUL3_103022400036\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T20:05:49.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\[TELYU]\\[KULIAH]\\SEMESTER4\\KPL\\Praktikum\\Code\\TP_MODUL3_103022400036\\TP_MODUL3_103022400036\\Form1.cs",
               "RelativeDocumentMoniker": "TP_MODUL3_103022400036\\Form1.cs",
